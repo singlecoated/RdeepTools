@@ -1,0 +1,14 @@
+Package: RdeepTools
+Version: 0.99.1
+Date: 2024-02-08
+Title: R wrapper for deepTools
+Author: Oscar Reina
+Maintainer: Oscar Reina <oscar.reina@gmail.com>
+Depends: R (>= 3.5.1), reticulate
+Imports: 
+Enhances: multicore
+Description: Call deepTools operations from R
+License: GPL (>=2)
+LazyLoad: yes
+Collate: 
+biocViews: Bioinformatics, Visualization

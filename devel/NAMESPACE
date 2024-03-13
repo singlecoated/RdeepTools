@@ -1,0 +1,9 @@
+#export regular functions
+export(lignmentSieve, bamCoverage, computeGCBias, computeMatrix, estimateReadFiltering, multiBigwigSummary, plotCoverage, plotFingerprint,
+       plotPCA, bamCompare, bamPEFragmentSize, computeMatrixOperations, correctGCBias, multiBamSummary, plotCorrelation, plotEnrichment,
+       plotHeatmap, plotProfile)
+
+
+
+
+
